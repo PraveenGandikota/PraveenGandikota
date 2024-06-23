@@ -10,8 +10,7 @@
 PraveenGandikota/PraveenGandikota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, I'm Yashita Namdeo! 
-yashitanamdeo
+Hi, 
 
 
 
@@ -41,4 +40,3 @@ Adobe Android Studio Atom Chrome Colab Brave Codepen Dark Reader Git Google Shee
 🙋‍♀️ Let's Connect
 Portfolio GitHub LinkedIn Facebook Instagram Gmail
 
-@yashitanamdeo's Holopin board
